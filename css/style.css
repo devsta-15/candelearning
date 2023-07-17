@@ -28,6 +28,14 @@
     width: 90px;
     height: 100%;
 }
+.toolbar-top {
+    display: flex;
+    padding: var(--rellenoslaterales);
+}
+
+.toolbar-top .liheader {
+    display: flex;
+}
 
 .toolbar-bottom .list-toolbar-bottom{
     display: flex;
